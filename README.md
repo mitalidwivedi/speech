@@ -10,7 +10,7 @@ speech recognition. The models are implemented in PyTorch.
 
 The software has only been tested in Python3.6. 
 
-**We will not be providing backward compatability for Python2.7.**
+**We will not be providing backward compatibility for Python2.7.**
 
 ## Install
 
